@@ -1,0 +1,30 @@
+{
+    "name": "resume",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "coffee-script": "1.x",
+        "express": "^3.21.2",
+        "jade": "0.35.x",
+        "which": "1.x"
+    },
+    "scripts": {
+        "start": "node app",
+        "test": "mocha --require should --compilers coffee:coffee-script --colors"
+    },
+    "devDependencies": {
+        "less": "*",
+        "mocha": "*",
+        "should": "*",
+        "request": "*",
+        "supervisor": "*",
+        "docco": "*",
+        "supertest": "*",
+        "watchr": "*",
+        "path": "*"
+    },
+    "engines": {
+        "node": "~0.8.x",
+        "npm": "1.1.x"
+    }
+}

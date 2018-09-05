@@ -1,0 +1,196 @@
+{
+  "basics": {
+    "label": "Senior Software Engineer",
+    "name": "Agina Abhijith Kumar",
+    "email": "abhijithkumar.nit@hotmail.com",
+    "picture": "https://avatars3.githubusercontent.com/u/40784764?s=400&v=4",
+    "phone": "+91-9701658584",
+    "profiles": [
+      {
+	"network": "LinkedIn",
+	"url": "www.linkedin.com/in/abhijithagina"
+      },
+      {
+        "network": "Facebook",
+        "username": "abhijithkumar.nit",
+        "url": "https://www.facebook.com/abhijithkumar.nit"
+      }
+    ],
+    "summary": "I have been a meritorious student since childhood, held a special place in heart for technology. Even though I pursued my B.E in  Civil Engineering, I was gravitated more towards IT. So, I delved into the IT industry for my first job. I was able to perform admirably well and soon became an indispensable resource to my team. I have received several awards and got promoted twice in a span of three years. I plan to evolve as a software architect and leave a notable mark in this vast field<br /><br /><b>Important Qualities</b><br /><ul><li><b>Innovative thinking</b>: I spend appropriate time thinking 'Is there a better way to do things that we do?'.</li><li><b>Timely Delivery</b>: I Deliver on time with good quality (thanks to the unit testing).</li><li><b>Communicate clearly</b>: I convey what I want to clearly.</li><li><b>Brainstorming</b>: I brainstorm with team when needed and Support the best idea on the table even if it's not mine.</li><li><b>Good use of existing tools</b>: I Use existing tools and resources when available rather than reinventing the wheel.</li><li><b>Review with team</b>: I get the review on design, implementation from the team before investing any significant amount of time into it.</li><li><b>Ready to improve</b>: Not getting emotionally attached to the code I write. This helps in changing or rewriting if need be.</li><li><b>Good Code Quality</b>: I Believe in writing good unit tests for code and practice it.</li><li><b>Coding Events' participation</b>: I participate in coding events, hackathons and garage days.</li><li><b>Self Belief</b>: I believe that I can learn and do anything.</li><li><b>Being current</b>: I am an avid tech news reader. I keep on top of the latest technology (hoping this helps while designing new products or redesigning existing ones) both by reading related articles and watching YouTube videos.</li>",
+    "location": {
+      "address": "Flat No. 402, PR's Venkata Sai Residency, Sri Ram Nagar Block B, Kondapur",
+      "postalCode": "500084",
+      "city": "Hyderabad",
+      "country": "India",
+      "region": "Telangana"
+    }
+  },
+  "work": [
+    {
+      "company": "Optum",
+      "position": "Senior Software Engineer (current)",
+      "website": "https://www.optum.com/",
+      "startDate": "2014-07-07",
+      "summary": "I was recruited into Optum from campus as a software developer. My first team works on X12 file (data format widely used in Healthcare systems) validation engine. My Job was to make optimizations where necessary. Optimizations include updating core engine, updating validation rules. Impressed by my understanding of core engine, I was moved to a team which builds microservices making use of X12 file validation engine. The work here is in modern architecture; writing microservices which are exposed by API, orchestration layers. It includes creating docker images and automated pipelines to deploy the code in Openshift servers.",
+      "highlights": [
+	"API and the orchestration layers are written in Golang - Developed a good understanding of the language by working on these layers",
+	"I Have great experience working in <b>PHP</b>. I worked on <b>microservices architecture</b>; designed, developed and deployed an entire microservice in <b>three weeks</b> time.",
+	"I worked on X12 file Validation engine written in C.",
+	"I worked on creating POC for an idea of mine which has the potential to <b>automate</b> an entire product workflow <b>including development.</b> and Received accolades and awards from senior management for it. I used <b>angularjs 1.x</b> as part of the work on POC, I also worked on angularjs 1.x while developing for a personal project.",
+	"I worked in an <b>agile</b> development world. I understand it's importance and realize the benefits it brings into the development cycle.",
+	"I Wrote a <b>crawler script in perl</b> which would download latest companion guides from the web and report any updates therein.",
+	"I Have extensive understanding and hands on with creating <b>Jenkins pipeline</b>, <bdocker images</b> and deploying these images in <b>openshift</b>."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+	"organization": "Patreon",
+	"summary": "Monthly Patreon Donation to Athan Reines<br />in helping him build stdlib library for Javascript and Nodejs",
+	"url": "https://www.patreon.com/athan",
+	"startDate": "2017-09-01"
+    },
+    {
+	"organization": "Teach For India",
+	"summary": "Monthly Donation through UHG Giving initiative.",
+	"url": "http://www.teachforindia.org/",
+	"startDate": "2017-05-31"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Nit Warangal",
+      "area": "Civil Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2010-07-14",
+      "endDate": "2014-01-01",
+      "cgpa": "7.88"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Aquamarine, Sapphire and Bravo awards",
+      "date": "2017-11-09",
+      "awarder": "Manager (IND), Lead Architect (US), Business Analyst (US)",
+      "summary": "Recognition for playing a key role in developing and delivering an important microservice on schedule without comprising on quality. Also, appreciated the code I wrote."
+    },
+    {
+      "title": "Hackathon Runner up",
+      "date": "2016-12-16",
+      "awarder": "Optum R & D",
+      "summary": "Our team stood as runner up in the company wide hackathon."
+    },
+    {
+      "title": "Aquamarine and Bravo awards",
+      "date": "2015-12-10",
+      "awarder": "Manager (US), Sr. Developer (IND)",
+      "summary": "Recognition for the POC I have made on the workflow automation idea."
+    },
+    {
+      "title": "Code Gladiator award",
+      "date": "2015-09-23",
+      "awarder": "TechGig.com",
+      "summary": "Certificate on participating in Code Gladiators Competition and standing in company top 5."
+    }
+    
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "keywords": [
+	"HTML", 
+	"CSS",
+	"JavaScript",
+	"AngularJS 1.x",
+	"HTTP",
+	"REST",
+	"Markdown"
+      ]
+    },
+    {
+      "name": "Server side technologies",
+      "keywords": [
+	"Golang",
+	"PHP",
+	"C", 
+	"Shell Scripting", 
+	"Perl"
+      ]
+    },
+    {
+      "name": "Database",
+      "keywords": [
+	"SQL", 
+	"MongoDB"
+      ]
+    },
+    {
+      "name": "CI/CD, packaging tools",
+      "keywords": [
+	"Docker", 
+	"Jenkins",
+	"Openshift",
+	"Makefile",
+	"Spec file"
+      ]
+    },
+    {
+      "name": "Code Repositories",
+      "keywords": [
+	"Git", 
+	"SVN"
+      ]
+    },
+    {
+      "name": "Debug tools",
+      "keywords": [
+	"gdb", 
+	"Xdebug (PHP)"
+      ]
+    },
+    {
+      "name": "Miscellaneous",
+      "keywords": [
+	"OOPS", 
+	"Few Design patterns"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Telugu",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Gadgets",
+      "keywords": [
+        "Smartphones",
+        "Internet of Things"
+      ]
+    },
+    {
+      "name": "Cryptocurrencies",
+      "keywords": [
+        "Bitcoin",
+        "Altcoins"
+      ]
+    },
+    {
+      "name": "A bit of everything",
+      "keywords": [
+        "Adventure",
+        "Sports"
+      ]
+    }
+  ]
+}
